@@ -256,6 +256,37 @@ int main() {
     PRINT(CAM_INTF_PARM_CAPTURE_FRAME_CONFIG,        pMetadata);
     PRINT(CAM_INTF_PARM_FLIP,                        pMetadata);
 
+    PRINT(MOTO1,                        pMetadata);
+    PRINT(MOTO2,                        pMetadata);
+    PRINT(MOTO3,                        pMetadata);
+    PRINT(MOTO4,                        pMetadata);
+    PRINT(MOTO5,                        pMetadata);
+    PRINT(MOTO6,                        pMetadata);
+    PRINT(MOTO7,                        pMetadata);
+    PRINT(MOTO8,                        pMetadata);
+    PRINT(MOTO9,                        pMetadata);
+    PRINT(MOTO10,                        pMetadata);
+    PRINT(MOTO11,                        pMetadata);
+    PRINT(MOTO12,                        pMetadata);
+    PRINT(MOTO13,                        pMetadata);
+    PRINT(MOTO14,                        pMetadata);
+    PRINT(MOTO15,                        pMetadata);
+    PRINT(MOTO16,                        pMetadata);
+    PRINT(MOTO17,                        pMetadata);
+    PRINT(MOTO18,                        pMetadata);
+    PRINT(MOTO19,                        pMetadata);
+    PRINT(MOTO20,                        pMetadata);
+    PRINT(MOTO21,                        pMetadata);
+    PRINT(MOTO22,                        pMetadata);
+    PRINT(MOTO23,                        pMetadata);
+    PRINT(MOTO24,                        pMetadata);
+    PRINT(MOTO25,                        pMetadata);
+    PRINT(MOTO26,                        pMetadata);
+    PRINT(MOTO27,                        pMetadata);
+    PRINT(MOTO28,                        pMetadata);
+    PRINT(MOTO29,                        pMetadata);
+    PRINT(MOTO30,                        pMetadata);
+    PRINT(MOTO31,                        pMetadata);
     dlclose(handle);
     return 0;
 }
